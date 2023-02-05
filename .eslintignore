@@ -1,2 +1,3 @@
 dist
 api.tsx
+tailwind.config.cjs
